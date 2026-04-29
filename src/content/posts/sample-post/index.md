@@ -2,15 +2,18 @@
 title: Welcome to Your New Site
 description: This sample post shows how to publish content on Pirate Social.
 pubDate: 2026-04-21T12:00:00.000Z
+imageAlt: ''
 tags:
   - welcome
   - sample
 draft: false
 visibility: site
+privatePassword: ''
 ---
+
 This is a **sample post** included in the default template.
 
-Use it to understand the post format, then edit or delete it in **/admin**.
+Use it to understand the post format, then edit or delete it in **/admin**. 
 
 ## Quick Tips
 
